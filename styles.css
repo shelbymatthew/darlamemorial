@@ -2,10 +2,32 @@
     width: 50%;
     margin-left: 25%;
     margin-right: 25%;
+    margin-bottom: 30px;
 }
 .link {
-    display: block;
+    margin: auto;
 }
 .text {
     text-align: center;
+}
+#obit,
+#lstitle {
+    width: 80%;
+    margin: auto;
+}
+#livestream {
+    margin: 10px 0px 30px 0px;
+    text-align: center;
+}
+
+#livestream a {
+    font-size: 30px;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #fffafb;
+    color: #29292b;   
+}
+#lstitle {
+    font-weight: bolder;
 }
